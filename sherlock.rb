@@ -2,7 +2,7 @@ class Sherlock < Formula
     desc "easy and simple to use cli password manager"
     homepage "https://github.com/KonstantinGasser/sherlock"
     url "https://github.com/KonstantinGasser/sherlock/archive/refs/tags/v0.2.0.tar.gz"
-    sha256 "9476a2071975b4afb5b65bb37688050a6bb524d78925cd9120e25e4d978cf51a"
+    sha256 "b24cd2c406c0a75e309f073ec50fb3cf1a17b1bdc2b97e195111ec7e68932757"
     version "0.2.0"
     def install
         bin.install "sherlock"
