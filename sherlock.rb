@@ -1,4 +1,4 @@
-class sherlock < Formula
+class Sherlock < Formula
     desc "easy and simple to use cli password manager"
     homepage "https://github.com/KonstantinGasser/sherlock"
     url "https://github.com/KonstantinGasser/sherlock/archive/refs/tags/v0.2.0.tar.gz"
